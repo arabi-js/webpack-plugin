@@ -1,0 +1,14 @@
+{
+  "name": "webpack-scaffold-arjs-webpack-plugin",
+  "version": "1.0.0",
+  "description": "arjs plugin for webpack",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  },
+  "devDependencies": {
+    "@webpack-cli/webpack-scaffold": "^0.1.5"
+  },
+  "author": "محمد سمير الصوالحي",
+  "license": "MIT"
+}
